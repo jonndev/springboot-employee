@@ -1,4 +1,4 @@
-# CreateEmployee
+# Employee Database
 $ mysql -u root -p
 
 Password: root
